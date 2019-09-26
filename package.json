@@ -1,0 +1,14 @@
+{
+  "name": "lunar-veggie-farmer",
+  "version": "0.0.1",
+  "description": "DISCO service that provides lunar vegetables",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Bohannon (imjohnbo)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

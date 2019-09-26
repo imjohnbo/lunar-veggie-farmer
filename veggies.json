@@ -1,0 +1,12 @@
+{
+    "veggies": [
+        {
+            "name": "lettuce",
+            "description": "A big ol' head of fresh, green lettuce",
+            "location": "Greenville, SC",
+            "units_available": 20,
+            "unit_price": 1.5,
+            "currency": "USD"
+        }
+    ]
+}
